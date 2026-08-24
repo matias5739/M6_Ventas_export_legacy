@@ -25,5 +25,3 @@ Tomando todas las columnas de la tabla orinal, referentes al id_cliente:
 - segmento;
 - fecha de alta;
 - actividad.
-
-- 
